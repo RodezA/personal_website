@@ -25,7 +25,7 @@ A single-page static site showcasing professional background, skills, experience
 
 ## Deployment
 
-Hosted via GitHub Pages directly from the `main` branch.
+Hosted via GitHub Pages directly from the `main` branch: https://rodeza.github.io/personal_website/
 
 ## Local Development
 
